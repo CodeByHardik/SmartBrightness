@@ -1,0 +1,11 @@
+{
+    "ambient_min": 131.34827973424,
+    "ambient_max": 133.38115782867902,
+    "ambient_median": 131.80741309929047,
+    "camera_resolution": [
+        320,
+        240
+    ],
+    "fps_expected": 30,
+    "timestamp": "2025-04-22 17:52:19.711368"
+}

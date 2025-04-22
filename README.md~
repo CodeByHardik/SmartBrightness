@@ -1,4 +1,4 @@
-# SmartBrightness
+# Auto-Brightness
 
 Automatically sets screen brightness at boot based on webcam-captured ambient light.
 
